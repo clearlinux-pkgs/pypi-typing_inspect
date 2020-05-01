@@ -4,7 +4,7 @@
 #
 Name     : typing_inspect
 Version  : 0.5.0
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/d6/d2/3c8d0a885995ee81e0a52dca5093d0c3dccf511a009944e62d4ab14c9c2f/typing_inspect-0.5.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d6/d2/3c8d0a885995ee81e0a52dca5093d0c3dccf511a009944e62d4ab14c9c2f/typing_inspect-0.5.0.tar.gz
 Summary  : Runtime inspection utilities for typing module.
@@ -14,11 +14,9 @@ Requires: typing_inspect-license = %{version}-%{release}
 Requires: typing_inspect-python = %{version}-%{release}
 Requires: typing_inspect-python3 = %{version}-%{release}
 Requires: mypy_extensions
-Requires: typing
 Requires: typing_extensions
 BuildRequires : buildreq-distutils3
 BuildRequires : mypy_extensions
-BuildRequires : typing
 BuildRequires : typing_extensions
 
 %description
@@ -65,7 +63,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1587748810
+export SOURCE_DATE_EPOCH=1588360164
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
