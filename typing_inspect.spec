@@ -4,7 +4,7 @@
 #
 Name     : typing_inspect
 Version  : 0.5.0
-Release  : 9
+Release  : 10
 URL      : https://files.pythonhosted.org/packages/d6/d2/3c8d0a885995ee81e0a52dca5093d0c3dccf511a009944e62d4ab14c9c2f/typing_inspect-0.5.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d6/d2/3c8d0a885995ee81e0a52dca5093d0c3dccf511a009944e62d4ab14c9c2f/typing_inspect-0.5.0.tar.gz
 Summary  : Runtime inspection utilities for typing module.
