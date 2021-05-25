@@ -1,5 +1,5 @@
 PKG_NAME := typing_inspect
-URL = https://files.pythonhosted.org/packages/d6/d2/3c8d0a885995ee81e0a52dca5093d0c3dccf511a009944e62d4ab14c9c2f/typing_inspect-0.5.0.tar.gz
+URL = https://files.pythonhosted.org/packages/84/06/8610d429f5d8d6e145abd0ac6a1a6a120c5f6fcbe174d43ddde549b1c582/typing_inspect-0.6.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
