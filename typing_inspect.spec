@@ -4,7 +4,7 @@
 #
 Name     : typing_inspect
 Version  : 0.6.0
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/84/06/8610d429f5d8d6e145abd0ac6a1a6a120c5f6fcbe174d43ddde549b1c582/typing_inspect-0.6.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/84/06/8610d429f5d8d6e145abd0ac6a1a6a120c5f6fcbe174d43ddde549b1c582/typing_inspect-0.6.0.tar.gz
 Summary  : Runtime inspection utilities for typing module.
@@ -63,7 +63,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1621966672
+export SOURCE_DATE_EPOCH=1622646633
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib
